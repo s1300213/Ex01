@@ -3,6 +3,8 @@
 #include<time.h>
 
 int main(){
+    
+    
     int sum=0,data;
     printf("Rolling dice...\n");
     srand(time(NULL));
